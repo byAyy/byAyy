@@ -1,9 +1,8 @@
 ### Hi there 👋
 
+![7Ui8](https://user-images.githubusercontent.com/68344298/137011014-b40e3505-d73d-405f-ba1f-0a7dadcde9b5.gif)
+)
 
-**byAyy/byAyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on "NOTHING" 

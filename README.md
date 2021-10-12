@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently STOOPID
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on "NOTHING" 
 - 🤔 I’m looking for help with "IDK"
